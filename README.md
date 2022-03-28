@@ -33,6 +33,10 @@
 **bold/strong**
   
 
+  ## Strike 
+
+~Strike~
+  
   
   
 just a test
