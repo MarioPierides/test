@@ -62,7 +62,7 @@
   
  > I am a blockquote
   
-  ##Code
+  ## Code
   
   This is `inline`.
   ```
@@ -84,7 +84,7 @@
   ```
   
   
-##Images
+## Images
 
   ![CatBild](https://unsplash.com/photos/45sFSKai4Q4)
   
