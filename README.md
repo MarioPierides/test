@@ -29,6 +29,9 @@
 
 ## Bold & italic
   
+**bold**
+*italic*
+  
 *cursive/italic/emphasis*
 **bold/strong**
   
@@ -36,6 +39,37 @@
   ## Strike 
 
 ~Strike~
+  
+  
+## Links
+  
+[title of the link](https://www.neuefische.de)
+  
+  
+  [title of the link](https://www.neuefische.de) 
+  
+  [neuefische][neuefische]
+  
+  [neuefische][neuefische] ist toll
+  
+  
+  [neuefische] : https://www.neuefische.de
+  
+  [google] : https://www.google.de/?gws_rd=ssl
+  
+  
+
+  
+  
+ 
+
+  
+  
+  
+  
+ 
+  
+  
   
   
   
