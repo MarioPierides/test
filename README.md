@@ -90,8 +90,17 @@
   
   
   
+## Tables 
   
+  | foo | bar | baz |
+  | --- | --- | --- |
+  | Hello | Git | Hub |
 
+  
+  
+  | foo | bar | baz |
+  | :-- | --- | --: |
+  | Hello | Git | Hub !! |
   
   
  Just a test
@@ -99,6 +108,9 @@
   [neuefische] : https://www.neuefische.de
   
   [google]: https://www.google.de/?gws_rd=ssl
+  
+  
+  
   
   
   
