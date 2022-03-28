@@ -28,97 +28,81 @@
   
 
 ## Bold & italic
-  
-**bold**
-*italic*
-  
-*cursive/italic/emphasis*
-**bold/strong**
-  
 
-  ## Strike 
+*italic/cursive/emphasis*
+
+**bold/strong**
+
+_italic_
+__bold__
+
+## Strike
 
 ~Strike~
-  
-  
+
 ## Links
   
 [title of the link](https://www.neuefische.de)
+
+[neuefische][neuefische]
+
+[neuefische][neuefische] ist toll
+
   
-  
-  [title of the link](https://www.neuefische.de) 
-  
-  [neuefische][neuefische]
-  
-  [neuefische][neuefische] ist toll
-  
-  
-  [neuefische] : https://www.neuefische.de
-  
-  [google] : https://www.google.de/?gws_rd=ssl
-  
-  
-    ##Blockquote
+##Blockquote
   
  > I am a blockquote
   
-  ## Code
+## Code
   
-  This is `inline`.
-  ```
-  This is a code block
-  ```
-  
-  ```md
-  ## H2
-  
-  **bold**
-  ```
-  
-  ```html
-  <h1>Headline 1</h1>
-  ```
-  
-  ```shell
-  cd path/to/some/folder
-  ```
-  
+This code is `inline`.
+
+```
+This is a code block
+```
+
+```md
+## H2
+
+**bold**
+```
+
+```html
+<h1>Headline 1</h1>
+```
+
+```shell
+cd path/to/some/folder
+```  
   
 ## Images
 
-  ![CatBild](https://unsplash.com/photos/45sFSKai4Q4)
+  
+  
+![alt text](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80)
   
   
   
 ## Tables 
   
-  | foo | bar | baz |
-  | --- | --- | --- |
-  | Hello | Git | Hub |
+| foo   | bar | baz |
+| ----- | --- | --- |
+| Hello | Git | Hub |
+
+
+| foo   | bar | baz |
+| :---- | --- | --: |
+| Hello | Git | Hub !! |
+  
+  
+Just a test
+  
+  
+  
+[neuefische]: https://www.neuefische.de
+[google]: https://www.google.com
 
   
-  
-  | foo | bar | baz |
-  | :-- | --- | --: |
-  | Hello | Git | Hub !! |
-  
-  
- Just a test
-
-  [neuefische] : https://www.neuefische.de
-  
-  [google]: https://www.google.de/?gws_rd=ssl
-  
-  
-  
-  
-  
-  
-  
+[neuefische]: https://www.neuefische.de
+[google]: https://www.google.de/?gws_rd=ssl
  
-  
-  
-  
-  
-  
-just a test
