@@ -26,6 +26,13 @@
    1. Iten 3.1
    1. Item 3.2
   
+
+## Bold & italic
+  
+*cursive/italic/emphasis*
+**bold/strong**
+  
+
   
   
 just a test
