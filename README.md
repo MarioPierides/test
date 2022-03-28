@@ -101,8 +101,5 @@ Just a test
   
 [neuefische]: https://www.neuefische.de
 [google]: https://www.google.com
-
   
-[neuefische]: https://www.neuefische.de
-[google]: https://www.google.de/?gws_rd=ssl
  
